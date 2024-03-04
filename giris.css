@@ -1,0 +1,71 @@
+body{
+	background: url(resim_itfaiye.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 98%;
+    height: 100%;
+	background-color:#b24e4e;
+}
+
+#frm{
+	width:20%;
+	border-radius:3px;
+	margin:50px auto;
+	background: rgba(101, 76, 76, 0.5);
+	padding: 40px;
+	box-shadow: 8px 8px 12px #000;
+}
+
+#btn{
+        border: none;
+        outline: none;
+        height: 40px;
+        color: rgb(247, 249, 250);
+        font-size: 16px;
+        background: #130275;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 100%;
+        cursor: pointer;
+        border-radius: 20px;
+        
+}
+
+#pass{
+	text-align: center;
+		font-family: 'Dancing Script';
+		font-size: 13px;
+		margin-top: 30px;
+}
+
+#user{
+	text-align: center;
+		font-family: 'Dancing Script';
+		font-size: 13px;
+		margin-top: 30px;
+		border-radius: 20px;
+}
+#frm h4{
+    text-align: center;
+		font-family: 'Dancing Script';
+		font-size: 32px;
+		margin-top: 30px;
+		color: #fbfbfb;
+}
+
+h3{
+	text-align: center;
+		font-family: 'Dancing Script';
+		font-size: 86px;
+		margin-top: 30px;
+		color: #f4f6f9;
+}
+
+p{
+    width: 97%;
+    height: 25px;
+    padding: 3px;
+	color: whitesmoke;
+}

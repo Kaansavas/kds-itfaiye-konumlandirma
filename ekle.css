@@ -1,0 +1,16 @@
+body{
+	background: url(itf.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 98%;
+    height: 100%;
+	background-color:#b24e4e;
+}
+
+.box{
+        border: 1px solid #aaa; /*getting border*/
+        border-radius: 4px; /*rounded border*/
+        color: #000; /*text color*/
+}
